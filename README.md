@@ -213,9 +213,8 @@ public class ReportCacheData
     public DateTime GeneratedAt { get; set; }
 }
 
+```
 **Purpose**: DTOs specifically designed for cache storage, keeping domain entities clean.
-
----
 
 ## 4. Implementation Details
 
@@ -401,7 +400,7 @@ public class GenerateReportCommandHandler : IRequestHandler<GenerateReportComman
     }
 }
 
----
+```
 
 ## 5. Usage Patterns
 
@@ -512,7 +511,7 @@ public async Task<OrderDto> GetOrderAsync(int orderId, bool bypassCache = false)
     return orderDto;
 }
 
----
+```
 
 ## 6. Best Practices
 
