@@ -1,5 +1,5 @@
 ## Caching in Clean Architecture - Complete Documentation
-### RiskMonitor Application Cache Implementation Guide
+### Application Cache Implementation Guide
 
 ---
 
@@ -19,7 +19,7 @@
 ## 1. Overview
 
 ### Purpose
-The caching mechanism in the RiskMonitor Clean Architecture implementation provides a high-performance, scalable solution for temporary data storage, reducing database load and improving application responsiveness.
+The caching mechanism in the Clean Architecture implementation provides a high-performance, scalable solution for temporary data storage, reducing database load and improving application responsiveness.
 
 ### Key Features
 - **Clean Architecture Compliance**: Cache abstraction in Application layer, implementation in Infrastructure layer
