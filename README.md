@@ -39,25 +39,25 @@ Primary implementation focuses on Portfolio NAV (Net Asset Value) upload workflo
 
 ```
 ┌─────────────────────────────────────────────────┐
-│                  Presentation Layer              │
-│               (Controllers, Views)               │
+│                  Presentation Layer             │
+│               (Controllers, Views)              │
 └─────────────────────────────────────────────────┘
                          │
                          ▼
 ┌─────────────────────────────────────────────────┐
-│                 Application Layer                │
-│        (Commands, Queries, Interfaces)           │
-│   • ICacheService (Contract)                     │
-│   • CacheKeys (Key Generation)                   │
-│   • CacheDataModels (DTOs)                       │
+│                 Application Layer               │
+│        (Commands, Queries, Interfaces)          │
+│   • ICacheService (Contract)                    │
+│   • CacheKeys (Key Generation)                  │
+│   • CacheDataModels (DTOs)                      │
 └─────────────────────────────────────────────────┘
                          │
                          ▼
 ┌─────────────────────────────────────────────────┐
-│               Infrastructure Layer               │
-│            (External Dependencies)               │
-│   • CacheService (Implementation)                │
-│   • Redis/In-Memory Provider                     │
+│               Infrastructure Layer              │
+│            (External Dependencies)              │
+│   • CacheService (Implementation)               │
+│   • Redis/In-Memory Provider                    │
 └─────────────────────────────────────────────────┘
                          │
                          ▼
