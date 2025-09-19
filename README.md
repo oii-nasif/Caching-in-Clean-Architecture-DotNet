@@ -62,8 +62,8 @@ Primary implementation focuses on Portfolio NAV (Net Asset Value) upload workflo
                          │
                          ▼
 ┌─────────────────────────────────────────────────┐
-│                  Domain Layer                    │
-│              (Entities, Value Objects)           │
+│                  Domain Layer                   │
+│              (Entities, Value Objects)          │
 └─────────────────────────────────────────────────┘
 ```
 
