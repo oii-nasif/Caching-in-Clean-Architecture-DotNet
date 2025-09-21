@@ -2,7 +2,7 @@
 
 A production-ready .NET 8 Web API project demonstrating Clean Architecture principles with comprehensive caching implementation.
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```
 ├── src/
