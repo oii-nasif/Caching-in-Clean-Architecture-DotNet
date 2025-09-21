@@ -24,7 +24,8 @@ A production-ready .NET 8 Web API project demonstrating Clean Architecture princ
 
 1. **Clone the repository**
    ```bash
-   cd C:\Projects\Caching-in-Clean-Architecture-DotNet
+   git clone https://github.com/yourusername/Caching-in-Clean-Architecture-DotNet.git
+   cd Caching-in-Clean-Architecture-DotNet
    ```
 
 2. **Build the solution**
@@ -44,7 +45,7 @@ A production-ready .NET 8 Web API project demonstrating Clean Architecture princ
    ```
 
 5. **Access Swagger UI**
-   Navigate to: `http://localhost:5214/swagger`
+   Navigate to: `https://localhost:7003/swagger` (HTTPS) or `http://localhost:5214/swagger` (HTTP)
 
 ## 📋 Features
 
@@ -277,9 +278,11 @@ CleanArchitectureCache.sln
 - All cache operations include error handling and logging
 - MediatR pattern ensures clean separation of concerns
 
-## 📄 Original Documentation
+## 📄 Additional Documentation
 
-For comprehensive caching concepts and patterns, see: `README.md`
+For comprehensive caching concepts and patterns, see:
+- `CACHE_DOCUMENTATION.md` - Detailed caching patterns and strategies
+- `Caching_in_Clean_Architecture_Documentation.md` - Implementation guide
 
 ## 🤝 Contributing
 
