@@ -4,15 +4,15 @@
 ---
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [Architecture Layers](#architecture-layers)
-3. [Core Components](#core-components)
-4. [Implementation Details](#implementation-details)
-5. [Usage Patterns](#usage-patterns)
-6. [Best Practices](#best-practices)
-7. [Testing Strategy](#testing-strategy)
-8. [Configuration](#configuration)
-9. [Troubleshooting](#troubleshooting)
+1. [Overview](#1-overview)
+2. [Architecture Layers](#2-architecture-layers)
+3. [Core Components](#3-core-components)
+4. [Implementation Details](#4-implementation-details)
+5. [Usage Patterns](#5-usage-patterns)
+6. [Best Practices](#6-best-practices)
+7. [Testing Strategy](#7-testing-strategy)
+8. [Configuration](#8-configuration)
+9. [Troubleshooting](#9-troubleshooting)
 
 ---
 

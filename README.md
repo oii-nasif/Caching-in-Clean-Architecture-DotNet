@@ -281,8 +281,7 @@ CleanArchitectureCache.sln
 ## 📄 Additional Documentation
 
 For comprehensive caching concepts and patterns, see:
-- `CACHE_DOCUMENTATION.md` - Detailed caching patterns and strategies
-- `Caching_in_Clean_Architecture_Documentation.md` - Implementation guide
+- `CACHE_DOCUMENTATION.md` - Detailed caching patterns, strategies, and implementation guide
 
 ## 🤝 Contributing
 
